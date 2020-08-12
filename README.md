@@ -1,7 +1,14 @@
-To open the project:
-   requirement: NPM (version 6.9.0)
-
-
+  # React JS
+  
+  ## View
+  
+  ![demo](https://github.com/CarlitoBraga/Calculadora-Simples/blob/master/demo.PNG)
+  
+  
+  ## To open the project
+  
+   requirement NPM (version 6.9.0)
+ 
     Just clone the repository.
 
     In the calculator-react folder, use NPM to install. npm install package.json
