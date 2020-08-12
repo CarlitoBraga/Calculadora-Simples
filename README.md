@@ -14,7 +14,7 @@
 
     In the "Calculadora" folder, use "npm start" to run the npm start calculator
 
-    Open the browser at http: // localhost: 3000.
+    Open the browser at http://localhost:3000.
     
     
     
